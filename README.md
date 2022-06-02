@@ -40,7 +40,7 @@ The Webpack configuration is minimal and beginner-friendly. You can customise an
 
 ### Server
 
-MERN uses express web framework. Our app sits in server.js where we check for NODE_ENV.
+MERN uses express by me  web framework. Our app sits in server.js where we check for NODE_ENV.
 
 If NODE_ENV is development, we apply Webpack middlewares for bundling and Hot Module Replacement.
 
